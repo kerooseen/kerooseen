@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/header.svg" width="100%" alt="Keroseen Banner">
-</p>
+<img src="assets/header.svg" alt="Keroseen Banner">
 
 # 💫 About Me:
 ### **Keroseen**<br><br>Building tools for<br><br>• OSINT<br>• Digital Forensics<br>• Metadata Analysis<br>• Threat Intelligence<br>• Digital Investigations<br><br>Everything here is built for educational and defensive purposes.
