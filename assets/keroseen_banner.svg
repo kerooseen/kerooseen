@@ -1,4 +1,4 @@
-<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="420" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
       <![CDATA[
@@ -48,45 +48,45 @@
     </style>
 
     <clipPath id="typeClip">
-      <rect x="86" y="178" width="0" height="26">
-        <animate attributeName="width" from="0" to="260" dur="0.9s" begin="1.6s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+      <rect x="100" y="228" width="0" height="34">
+        <animate attributeName="width" from="0" to="340" dur="0.9s" begin="1.6s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
       </rect>
     </clipPath>
   </defs>
 
-  <rect width="1200" height="320" fill="#0D1117"/>
+  <rect width="1200" height="420" fill="#0D1117"/>
 
   <!-- Terminal -->
-  <rect x="60" y="40" width="1080" height="240" rx="12" fill="#161B22" stroke="#30363D" class="terminal-border"/>
+  <rect x="50" y="45" width="1100" height="330" rx="14" fill="#161B22" stroke="#30363D" class="terminal-border"/>
 
   <!-- Header -->
-  <rect x="60" y="40" width="1080" height="36" rx="12" fill="#21262D"/>
-  <circle cx="85" cy="58" r="6" fill="#FF5F56" class="dot-red"/>
-  <circle cx="105" cy="58" r="6" fill="#FFBD2E" class="dot-yellow"/>
-  <circle cx="125" cy="58" r="6" fill="#27C93F" class="dot-green"/>
-  <text x="550" y="63" fill="#8B949E" font-size="14" font-family="monospace" text-anchor="middle">terminal</text>
+  <rect x="50" y="45" width="1100" height="44" rx="14" fill="#21262D"/>
+  <circle cx="80" cy="67" r="7" fill="#FF5F56" class="dot-red"/>
+  <circle cx="104" cy="67" r="7" fill="#FFBD2E" class="dot-yellow"/>
+  <circle cx="128" cy="67" r="7" fill="#27C93F" class="dot-green"/>
+  <text x="600" y="73" fill="#8B949E" font-size="17" font-family="monospace" text-anchor="middle">terminal</text>
 
   <!-- Title -->
-  <text x="90" y="120" fill="#58A6FF" font-size="38" font-family="monospace" font-weight="bold" class="title-glow">
+  <text x="90" y="160" fill="#58A6FF" font-size="52" font-family="monospace" font-weight="bold" class="title-glow">
     KEROSEEN<tspan class="title-cursor">_</tspan>
   </text>
 
-  <text x="90" y="150" fill="#8B949E" font-size="17" font-family="monospace" class="subtitle">
+  <text x="90" y="200" fill="#8B949E" font-size="22" font-family="monospace" class="subtitle">
     Building Open-Source OSINT &amp; Cybersecurity Tools
   </text>
 
   <!-- Command with typing effect -->
-  <text x="90" y="195" fill="#3FB950" font-size="18" font-family="monospace" clip-path="url(#typeClip)">
+  <text x="90" y="245" fill="#3FB950" font-size="24" font-family="monospace" clip-path="url(#typeClip)">
     $ ls ~/projects
   </text>
-  <rect x="230" y="180" width="10" height="20" fill="#3FB950" class="cmd-cursor"/>
+  <rect x="290" y="228" width="13" height="26" fill="#3FB950" class="cmd-cursor"/>
 
   <!-- Projects -->
-  <text x="110" y="225" fill="#F0F6FC" font-size="17" font-family="monospace" class="item i1">├── KeroScope</text>
-  <text x="110" y="248" fill="#F0F6FC" font-size="17" font-family="monospace" class="item i2">├── KeroRecon</text>
-  <text x="110" y="271" fill="#F0F6FC" font-size="17" font-family="monospace" class="item i3">├── KeroTrace</text>
+  <text x="115" y="290" fill="#F0F6FC" font-size="22" font-family="monospace" class="item i1">├── KeroScope</text>
+  <text x="115" y="322" fill="#F0F6FC" font-size="22" font-family="monospace" class="item i2">├── KeroRecon</text>
+  <text x="115" y="354" fill="#F0F6FC" font-size="22" font-family="monospace" class="item i3">├── KeroTrace</text>
 
-  <text x="500" y="225" fill="#F0F6FC" font-size="17" font-family="monospace" class="item i4">├── KeroGraph</text>
-  <text x="500" y="248" fill="#F0F6FC" font-size="17" font-family="monospace" class="item i5">├── KeroReport</text>
-  <text x="500" y="271" fill="#F0F6FC" font-size="17" font-family="monospace" class="item i6">└── KeroHub</text>
+  <text x="580" y="290" fill="#F0F6FC" font-size="22" font-family="monospace" class="item i4">├── KeroGraph</text>
+  <text x="580" y="322" fill="#F0F6FC" font-size="22" font-family="monospace" class="item i5">├── KeroReport</text>
+  <text x="580" y="354" fill="#F0F6FC" font-size="22" font-family="monospace" class="item i6">└── KeroHub</text>
 </svg>
