@@ -11,20 +11,20 @@
 
 ## 🚀 Future Projects
 
-### 🔍 KeroScope
+### 🔍 KeroScope (done)
 Extract, analyze and inspect metadata from files to support digital investigations.
 
-### 🌐 KeroRecon
+### 🌐 KeroRecon (soon)
 Gather and analyze information about domains, IP addresses, DNS records and network infrastructure.
 
-### 📧 KeroTrace
+### 📧 KeroTrace (soon)
 Analyze emails, URLs and Indicators of Compromise (IOCs) to support threat investigations.
 
-### 🕸️ KeroGraph
+### 🕸️ KeroGraph (soon)
 Visualize relationships between domains, IPs, emails and other entities through interactive graphs.
 
-### 📄 KeroReport
+### 📄 KeroReport (soon)
 Generate clear, customizable investigation reports from collected findings.
 
-### 🚀 KeroHub
+### 🚀 KeroHub (soon)
 A unified platform bringing together every Kero tool into a single interface for seamless OSINT workflows.
