@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/kerooseen/kerooseen/main/.github/banner.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/kerooseen/kerooseen/assets/.github/banner.svg" width="100%" />
 
 # 💫 About Me:
 ### **Keroseen**<br><br>Building tools for<br><br>• OSINT<br>• Digital Forensics<br>• Metadata Analysis<br>• Threat Intelligence<br>• Digital Investigations<br><br>Everything here is built for educational and defensive purposes.
