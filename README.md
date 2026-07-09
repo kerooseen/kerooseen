@@ -3,11 +3,11 @@
 # 💫 About Me:
 ## **Keroseen**
 ### Building tools for
-#### • OSINT
-#### • Digital Forensics
-#### • Metadata Analysis
-#### • Threat Intelligence
-#### • Digital Investigations
+#### •  OSINT
+#### •  Digital Forensics
+#### •  Metadata Analysis
+#### •  Threat Intelligence
+#### •  Digital Investigations
 ### Everything here is built for educational and defensive purposes.
 
 # 💻 Tech Stack:
