@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/kerooseen/kerooseen/main/assets/keroseen_banner.svg" width="100%" />
 
-# 💫 About Me:
+# About Me:
 ## **Keroseen**
 ### Building tools for
 #### •  OSINT
